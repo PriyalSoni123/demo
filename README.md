@@ -12,5 +12,5 @@ this is making trouble
 >>>>>>> very-bad
 
 
-i hope this isnt much of a probelm
+readme file is updated
 
