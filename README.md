@@ -10,3 +10,6 @@ i hope this is'nt much of the problem
 this is making trouble
 
 >>>>>>> very-bad
+
+
+this is a good branch
