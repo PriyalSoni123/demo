@@ -12,4 +12,5 @@ this is making trouble
 >>>>>>> very-bad
 
 
-this is a good branch
+i hope this isnt much of a probelm
+
